@@ -2,7 +2,7 @@
 
 This app predicts the possibility of heart disease using machine learning.
 
-🚀 **[Click here to open the app](https://ayeshaasif50-heart-diseases-prediction.streamlit.app/)**
+🚀 **[Click here to open the app](https://heartdiseasesprediction-imzf4qmxyiw6pfd64skwg5.streamlit.app/)**
 
 ## Features:
 - Built with Streamlit
